@@ -1,0 +1,26 @@
+_repo: Girls--Faults-and-Ideals--13-A-Familiar-Talk-with-Quotations-from-Letters_9386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, J. R. (James Russell)
+    alias: Miller, James Russell
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '8546'
+    url: http://www.gutenberg.org/2009/agents/8546
+    wikipedia: http://en.wikipedia.org/wiki/J._R._Miller
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Young women'
+- GITenberg
+title: "Girls: Faults and Ideals\r\nA Familiar Talk, with Quotations from Letters"
+url: http://www.gutenberg.org/ebooks/9386
