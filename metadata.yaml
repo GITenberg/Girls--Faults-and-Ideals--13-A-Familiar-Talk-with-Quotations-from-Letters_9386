@@ -1,5 +1,8 @@
 _repo: Girls--Faults-and-Ideals--13-A-Familiar-Talk-with-Quotations-from-Letters_9386
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Miller, J. R. (James Russell)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8546
     wikipedia: http://en.wikipedia.org/wiki/J._R._Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9386#Girls--Faults-and-Ideals--13-A-Familiar-Talk-with-Quotations-from-Letters
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
